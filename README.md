@@ -136,3 +136,22 @@ Run any exercise from the repository root:
 - ej06_traducciones.py
 - ej07_frecuencia_numeros.py
 - ej08_mostrar_ordenado.py
+
+### 06_excepciones
+- ej01_pedir_entero_valido.py
+- ej02_division_segura.py
+- ej03_pedir_float_valido.py
+- ej04_menu_validado.py
+
+### 07_modulos
+- ej01_math_circulo.py
+- ej02_random_dado.py
+- ej03_datetime_dia_semana.py
+- ej04_pathlib_contar_archivos.py
+
+### 08_poo
+- ej01_persona.py
+- ej02_cuenta_bancaria.py
+- ej03_rectangulo_clase.py
+- ej04_animales_herencia.py
+
