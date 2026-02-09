@@ -48,3 +48,11 @@ tests/
 
 ## Notes
 This is a learning/practice repo. Exercises and tests are added progressively.
+
+## Run an exercise
+From the repository root:
+
+- Example:
+  - python3 src/02_estructuras_alternativas/ej02_par_impar.py
+
+Each exercise is a standalone script that uses standard input/output (input/print).
