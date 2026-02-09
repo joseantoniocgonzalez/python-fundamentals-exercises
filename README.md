@@ -84,3 +84,55 @@ Run any exercise from the repository root:
   - python3 src/04_secuencias/ej03_palindromo.py
 - Dictionaries:
   - python3 src/05_diccionarios/ej05_inventario_simple.py
+
+## Exercise index
+
+### 01_tipos_datos_basicos
+- ej01_operaciones_basicas.py
+- ej02_celsius_fahrenheit.py
+- ej03_area_perimetro_rectangulo.py
+- ej04_media_tres_notas.py
+- ej05_intercambiar_variables.py
+- ej06_segundos_a_hms.py
+- ej07_calcular_iva.py
+- ej08_euros_centimos.py
+
+### 02_estructuras_alternativas
+- ej01_suma_signo.py
+- ej02_par_impar.py
+- ej03_dias_del_mes.py
+- ej04_login_simple.py
+- ej05_bisiesto.py
+- ej06_mayuscula.py
+- ej07_mayor_de_tres.py
+- ej08_calculadora_simple.py
+
+### 03_bucles
+- ej01_mostrar_1_a_n.py
+- ej02_tabla_multiplicar.py
+- ej03_suma_1_a_n.py
+- ej04_factorial.py
+- ej05_contar_signos.py
+- ej06_hasta_cero.py
+- ej07_primo.py
+- ej08_adivina_numero.py
+
+### 04_secuencias
+- ej01_contar_vocales.py
+- ej02_invertir_cadena.py
+- ej03_palindromo.py
+- ej04_contar_palabras.py
+- ej05_max_min_media_lista.py
+- ej06_buscar_en_lista.py
+- ej07_eliminar_duplicados.py
+- ej08_tupla_persona.py
+
+### 05_diccionarios
+- ej01_agenda_basica.py
+- ej02_frecuencia_letras.py
+- ej03_frecuencia_palabras.py
+- ej04_notas_alumnos.py
+- ej05_inventario_simple.py
+- ej06_traducciones.py
+- ej07_frecuencia_numeros.py
+- ej08_mostrar_ordenado.py
