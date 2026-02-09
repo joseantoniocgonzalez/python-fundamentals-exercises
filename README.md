@@ -56,3 +56,31 @@ From the repository root:
   - python3 src/02_estructuras_alternativas/ej02_par_impar.py
 
 Each exercise is a standalone script that uses standard input/output (input/print).
+
+## Structure (folders)
+All exercises are standalone scripts (style: input/print).
+
+- src/01_tipos_datos_basicos
+  - Numeric/boolean types, variables, basic I/O, simple calculations.
+- src/02_estructuras_alternativas
+  - if/elif/else exercises (conditions).
+- src/03_bucles
+  - for/while loops, counters and accumulators.
+- src/04_secuencias
+  - Strings + lists + tuples exercises.
+- src/05_diccionarios
+  - Dictionaries (maps) exercises.
+
+## Quick run examples
+Run any exercise from the repository root:
+
+- Basics:
+  - python3 src/01_tipos_datos_basicos/ej01_operaciones_basicas.py
+- Conditionals:
+  - python3 src/02_estructuras_alternativas/ej02_par_impar.py
+- Loops:
+  - python3 src/03_bucles/ej08_adivina_numero.py
+- Sequences:
+  - python3 src/04_secuencias/ej03_palindromo.py
+- Dictionaries:
+  - python3 src/05_diccionarios/ej05_inventario_simple.py
